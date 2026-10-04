@@ -13,30 +13,12 @@
 
 I've spent most of my career building software for security teams: ML-backed malware detection APIs at **McAfee**, software supply chain security at **Lineaje**, and now security automation end to end. That means detection-to-remediation workflows, OpenSearch datasets with 100M+ documents, and agentic systems that pair LLM reasoning with deterministic, auditable engineering. Tooling only counts if people adopt it.
 
-### What I work on
+### Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Agentic security automation</b><br>
-      <sub>Detection-to-remediation workflows where LLM reasoning is wrapped in deterministic, auditable engineering.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Data platforms at scale</b><br>
-      <sub>Event-driven pipelines and OpenSearch-backed datasets spanning 100M+ documents.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Cloud-native on AWS</b><br>
-      <sub>Services, queues, and CI/CD that scale without surprises or 3 a.m. pages.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Engineers as customers</b><br>
-      <sub>Forward-deployed work with security teams, building tooling they actually adopt.</sub>
-    </td>
-  </tr>
-</table>
+- **Languages:** Python, TypeScript, Node.js
+- **Cloud & data:** AWS, OpenSearch, event-driven pipelines, CI/CD
+- **AI:** agentic workflows, MCP servers, LLM pipelines
+- **Security:** vulnerability detection and remediation, supply chain security, SBOMs, secret scanning
 
 ### Latest project
 
