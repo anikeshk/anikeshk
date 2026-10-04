@@ -1,15 +1,57 @@
-## Hello, I'm Anikesh 👋
+<a href="https://anikeshk.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Anikesh G Kamath — Software engineer building security automation: the APIs, pipelines, and agentic workflows that turn security findings into fixes. Senior Software Engineer at Lineaje · MSCS from Northeastern." src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-> Software engineer, MSCS @ Northeastern, based in Boston.
+<p>
+  <a href="https://anikeshk.com/"><b>anikeshk.com</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/anikeshk/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:anikesh.kamath@gmail.com">Email</a>
+</p>
 
-> I focus on backend development.
+I've spent most of my career building software for security teams: ML-backed malware detection APIs at **McAfee**, software supply chain security at **Lineaje**, and now security automation end to end. That means detection-to-remediation workflows, OpenSearch datasets with 100M+ documents, and agentic systems that pair LLM reasoning with deterministic, auditable engineering. Tooling only counts if people adopt it.
 
-I work on:
+### `WHAT I WORK ON`
 
-- Crafting APIs with Node.js magic 🪄
-- Architecting the cloud on AWS, one service at a time ☁️
-- Building snappy UIs with React ⚡
-- Helping teams level up 🚀
-- and more...
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Agentic security automation</b><br>
+      <sub>Detection-to-remediation workflows where LLM reasoning is wrapped in deterministic, auditable engineering.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Data platforms at scale</b><br>
+      <sub>Event-driven pipelines and OpenSearch-backed datasets spanning 100M+ documents.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Cloud-native on AWS</b><br>
+      <sub>Services, queues, and CI/CD that scale without surprises or 3 a.m. pages.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Engineers as customers</b><br>
+      <sub>Forward-deployed work with security teams, building tooling they actually adopt.</sub>
+    </td>
+  </tr>
+</table>
 
-Learn more about me, read my posts, and check out my projects here: [anikeshk.com](https://anikeshk.com/)
+### `LATEST PROJECT`
+
+#### [TOTS](https://github.com/anikeshk/tots): is this CVE real for this package version?
+
+A published CVE can still be disputed, overstated, or scoped to the wrong versions. TOTS takes one CVE and one package version and runs two independent agents in parallel. One reproduces the bug in an isolated sandbox. The other collects what maintainers, databases, and vendors say, with a verbatim quote and a link for each. A judge model scores the evidence, and fixed, auditable thresholds turn the scores into a label. No model picks the label.
+
+<p>
+  <a href="https://tots-security.vercel.app"><b>Live demo</b></a> &nbsp;·&nbsp;
+  <a href="https://tots-security.vercel.app/how-it-works">How it works</a> &nbsp;·&nbsp;
+  <a href="https://github.com/anikeshk/tots">Source</a>
+  <br>
+  <sub>eve · Vercel Workflow · Vercel Sandbox · AI Gateway · Next.js · Neon</sub>
+</p>
+
+---
+
+<sub>Building security or developer infrastructure at scale? I'd love to compare notes: <a href="mailto:anikesh.kamath@gmail.com">anikesh.kamath@gmail.com</a></sub>
