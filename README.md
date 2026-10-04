@@ -13,7 +13,7 @@
 
 I've spent most of my career building software for security teams: ML-backed malware detection APIs at **McAfee**, software supply chain security at **Lineaje**, and now security automation end to end. That means detection-to-remediation workflows, OpenSearch datasets with 100M+ documents, and agentic systems that pair LLM reasoning with deterministic, auditable engineering. Tooling only counts if people adopt it.
 
-### `WHAT I WORK ON`
+### What I work on
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ I've spent most of my career building software for security teams: ML-backed mal
   </tr>
 </table>
 
-### `LATEST PROJECT`
+### Latest project
 
 #### [TOTS](https://github.com/anikeshk/tots): is this CVE real for this package version?
 
