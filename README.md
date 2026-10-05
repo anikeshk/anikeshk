@@ -22,9 +22,9 @@ I've spent most of my career building software for security teams: ML-backed mal
 
 ### Latest project
 
-#### [TOTS](https://github.com/anikeshk/tots): is this CVE real for this package version?
+#### [tots](https://github.com/anikeshk/tots): is this CVE real for this package version?
 
-A published CVE can still be disputed, overstated, or scoped to the wrong versions. TOTS takes one CVE and one package version and runs two independent agents in parallel. One reproduces the bug in an isolated sandbox. The other collects what maintainers, databases, and vendors say, with a verbatim quote and a link for each. A judge model scores the evidence, and fixed, auditable thresholds turn the scores into a label. No model picks the label.
+A published CVE can still be disputed, overstated, or scoped to the wrong versions. tots takes one CVE and one package version and runs two independent agents in parallel. One reproduces the bug in an isolated sandbox. The other collects what maintainers, databases, and vendors say, with a verbatim quote and a link for each. A judge model scores the evidence, and fixed, auditable thresholds turn the scores into a label. No model picks the label.
 
 <p>
   <a href="https://tots-security.vercel.app"><b>Live demo</b></a> &nbsp;·&nbsp;
